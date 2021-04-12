@@ -1,2 +1,3 @@
-# kicad template repo
- A Template Repository With License and .gitignores for a kicad project
+# Lightsabers
+3d models, PCB and software
+
